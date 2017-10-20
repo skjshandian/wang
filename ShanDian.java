@@ -6,6 +6,7 @@ public class ShanDian {
     private  String sex;
     private  String height;
     System.out.print("this chang file");
+ System.out.print("hello java");
     public  int  getId(){
         return id;
     }
