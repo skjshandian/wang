@@ -6,21 +6,7 @@ public class ShanDian {
     private  String sex;
     private  String height;
 
-    public  void setId(int id){
-      this.id=id;
-    }
-    public  void setName(String name){
-        this.name=name;
-    }
-    public  void setAge(int age){
-        this.age =age;
-    }
-    public void setSex(String sex){
-        this.sex=sex;
-    }
-    public void setHeight(String height){
-        this.height=height;
-    }
+    
     public  int  getId(){
         return id;
     }
