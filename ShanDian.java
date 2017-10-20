@@ -5,8 +5,7 @@ public class ShanDian {
     private  int age;
     private  String sex;
     private  String height;
-
-    
+    System.out.print("this chang file");
     public  int  getId(){
         return id;
     }
